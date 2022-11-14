@@ -1,4 +1,4 @@
-TESTE INCOMPLETO - Front-end finalizado, Back-end Incopleto, faltou finalziar (Autenticação cadastro e login com JWT, Context API, A junção entre a tabela de "users" com a de "posts". Motivo: Tempo, dei meu melhor sendo melhor no front-end tenho mais facilidade, mas ainda sou legio no back-end. Esse exercicio me fez aprender muito mais!
+TESTE INCOMPLETO - Front-end finalizado, Back-end Incopleto, faltou finalziar (Autenticação cadastro e login com JWT, Context API, A junção entre a tabela de "users" com a de "posts". Motivo: Tempo, dei meu melhor sendo melhor no front-end tenho mais facilidade, mas ainda sou inexperiente no back-end. Esse exercicio me fez aprender muito mais!
 
 # Getting Started with Create React App
 
