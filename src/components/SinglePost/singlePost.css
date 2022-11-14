@@ -1,0 +1,57 @@
+.singlePost{
+    flex: 9;
+}
+
+.singlePostImg{
+    justify-items: center;
+    width: 50%;
+    height: 450px; 
+    margin-left: 25%; 
+    obeject-fit: cover;
+}
+
+.singlePostWrapper{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    padding-right: 0;
+}
+
+.singlePostTitle{
+    text-align: center;
+    margin: 10px;
+    font-size: 28px;
+}
+
+.singlePostEdit{
+    float: right;
+    font-size: 20px;
+}
+
+.singlePostIcon{
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.singlePostInfo{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    color: Black;
+    padding-right: 20px;
+
+}
+
+.singlePostDesc{
+    color: #666;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.singlePostDesc::first-letter{
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
